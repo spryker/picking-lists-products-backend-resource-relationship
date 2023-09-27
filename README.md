@@ -4,6 +4,9 @@
 
 PickingListsProductsBackendResourceRelationship module provides a relationship between picking lists and products resources.
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker/products-backend-api](https://github.com/spryker/products-backend-api) instead.
+
 ## Installation
 
 ```
